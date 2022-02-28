@@ -37,9 +37,8 @@
 <div>
     <h1 style="color:red;">
         <strong>IMPORTANT</strong>
-        <img src="./demo-image/important-img.png"/>
-
     </h1>
+    <img src="./demo-image/important-img.png"/>
 
 </div>
 
