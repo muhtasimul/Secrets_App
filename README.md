@@ -11,22 +11,33 @@
     <br/>
     <img src="./demo-image/enc.png" style="width:300px;height:220px;"/>
     <br/>
+    <br/>
     <li>Then you will get your Encrypted Message</li>
     <br/>
     <img src="./demo-image/success-enc.png" style="width:300px;height:220px;"/>
+    <br/>
     <br/>
     <li>Decrypt your app using same process</li>
     <br/>
     <img src="./demo-image/dec.png" style="width:300px;height:260px;"/>
     <br/>
+    <br/>
     <li>Then you will get your Decrypted Message</li>
     <br/>
+    <br/>
     <img src="./demo-image/dec-success.png" style="width:300px;height:220px;"/>
+    <br/>
     <br/>
     <li>If you enter <strong>Incorrect</strong> passCode or Message </li>
     <br/>
     <img src="./demo-image/dec-fail.png" style="width:300px;height:220px;"/>
 
+</div>
+
+<div>
+    <h1 style="color:red">
+        <strong>DO NOT USE THIS APP TO ENCRYPT ANY SENSITIVE OR IMPORTANT DATA.</strong>
+    </h1>
 </div>
 
 <details>
