@@ -35,7 +35,7 @@
 </div>
 
 <div>
-    <h1 style="color:red">
+    <h1 style="color:red;">
         <strong>DO NOT USE THIS APP TO ENCRYPT ANY SENSITIVE OR IMPORTANT DATA.</strong>
     </h1>
 </div>
