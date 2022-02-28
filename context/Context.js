@@ -24,7 +24,7 @@ function ContextProvider({ children }) {
         }
 
         if (newEntry === false) {
-            window.location.reload()
+            location.reload()
             setNewEntry(true)
         }
     }, [newEntry, secret, message])

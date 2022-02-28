@@ -3,6 +3,8 @@
 <div>
     <h2>Introduction</h2>
     <p>This a Next.js App that encrypts any messages the user wants.</p>
+    <p>Please visit the link below to use this app:</p>
+    secrets-app-kappa.vercel.app
 </div>
 
 <hr/>
