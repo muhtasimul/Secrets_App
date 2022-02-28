@@ -5,6 +5,7 @@
     <p>This a Next.js App that encrypts any messages the user wants.</p>
 </div>
 
+<hr/>
 <div>
     <h2>App Demo</h2>
     <li>Enter Secret PassCode and Message</li>
@@ -34,6 +35,7 @@
 
 </div>
 
+<hr/>
 <div>
     <h1 style="color:red;">
         <strong>IMPORTANT</strong>
@@ -42,6 +44,8 @@
 
 </div>
 
+<hr>
+<h3>Next.js Instructions</h3>
 <details>
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 

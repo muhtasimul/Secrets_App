@@ -1,0 +1,12 @@
+.details {
+	font-family: "Montserrat", sans-serif;
+	height: 1vh;
+}
+
+.details p {
+	color: #4d4d4d;
+}
+
+.details footer {
+	background-color: #f2f2f2;
+}
