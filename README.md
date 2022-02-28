@@ -8,7 +8,7 @@
 <div>
     <h2>App Demo</h2>
     <li>Enter Secret PassCode and Message</li>
-    <img src="./demo-image/enc"/>
+    <img src="./demo-image/enc.png"/>
 
 </div>
 
