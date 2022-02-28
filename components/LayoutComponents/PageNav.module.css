@@ -1,0 +1,14 @@
+.details {
+	font-family: "Montserrat", sans-serif;
+	width: 98vw;
+	margin: 0;
+}
+
+.details h1 {
+	font-weight: 700;
+	color: #4d4d4d;
+}
+
+.details div {
+	background-color: #f2f2f2;
+}
