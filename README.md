@@ -8,7 +8,15 @@
 <div>
     <h2>App Demo</h2>
     <li>Enter Secret PassCode and Message</li>
-    <img src="./demo-image/enc.png"/>
+    <img src="./demo-image/enc.png" style="width:300px;height:220px;"/>
+    <li>Then you will get your Encrypted Message</li>
+    <img src="./demo-image/success-enc.png" style="width:300px;height:220px;"/>
+    <li>Decrypt your app using same process</li>
+    <img src="./demo-image/dec.png" style="width:300px;height:220px;"/>
+    <li>Then you will get your Decrypted Message</li>
+    <img src="./demo-image/success-dec.png" style="width:300px;height:220px;"/>
+    <li>If you enter <strong>Incorrect</strong> passCode or Message </li>
+    <img src="./demo-image/dec-fail.png" style="width:300px;height:220px;"/>
 
 </div>
 
