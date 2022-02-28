@@ -41,7 +41,6 @@ export default function MainPage() {
                             type="text"
                             onChange={(e) => setMessage(e.target.value)}
                             value={message}
-                            maxLength="50"
                             placeholder="Type your message here..."
                         ></textarea>
 
