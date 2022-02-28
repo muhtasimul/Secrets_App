@@ -36,8 +36,11 @@
 
 <div>
     <h1 style="color:red;">
-        <strong>DO NOT USE THIS APP TO ENCRYPT ANY SENSITIVE OR IMPORTANT DATA.</strong>
+        <strong>IMPORTANT</strong>
+        <img src="./demo-image/important-img.png"/>
+
     </h1>
+
 </div>
 
 <details>
