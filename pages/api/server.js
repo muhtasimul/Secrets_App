@@ -29,7 +29,7 @@ export default async function handler(req, res) {
                 })
             } catch (e) {
                 res.json({
-                    result_message: 'Decryption Unsuccessful',
+                    result_message: 'Decryption Failed',
                     encrypted_message: 'Please Try Again'
                 })
             }
