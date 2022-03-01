@@ -19,8 +19,6 @@ export default function MainPage() {
 
     return (
         <div className={`${classes.details} container-fluid d-flex justify-content-center align-items-center`}>
-
-
             <div className={`${classes.cards} card p-3`}>
                 <form>
                     <div className='row m-3'>

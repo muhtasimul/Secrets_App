@@ -1,6 +1,7 @@
 .details {
 	font-family: "Montserrat", sans-serif;
-	height: 1vh;
+	height: 4vh;
+	width: 100vw;
 }
 
 .details p {

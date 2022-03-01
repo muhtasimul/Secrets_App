@@ -1,6 +1,8 @@
 .details {
-	height: 90vh;
-	width: 98vw;
+	/* height: 90vh;
+	width: 98vw; */
+	height: 85vh;
+	width: 100vw;
 	font-family: "Montserrat", sans-serif;
 	background-color: #e6e6e6;
 	margin: 0;
